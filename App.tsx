@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
   subHeading: {
     fontSize: 25,
     fontWeight: 'bold',
-    color: 'green',
+    color: 'black',
   },
   separator: {
     height: 20,
